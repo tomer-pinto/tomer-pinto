@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate **Software Developer** and **Data Analyst** specializing in:
-- **Programming:** Python, Java, SQL, JavaScript
-- **Web Technologies:** HTML, CSS
+- **Programming:** Python, Java, SQL, JavaScript, HTML, CSS
 - **Databases:** MySQL, SQL Server
 - **Data Analysis & Machine Learning:** NumPy, pandas, Matplotlib, Scikit-learn
 - **Software Development:** Object-Oriented Programming, RESTful APIs, Data Structures & Algorithms
