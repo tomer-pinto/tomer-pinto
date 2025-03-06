@@ -16,6 +16,5 @@ A multi-layer academic management system built in **Python** with **MySQL**, app
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/tomerpinto](https://www.linkedin.com/in/tomerpinto/)
-- **GitHub:** [github.com/tomermichaelpinto](https://github.com/tomermichaelpinto)
 
 📌 *Always open to collaboration, learning, and exciting opportunities!*
