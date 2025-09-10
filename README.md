@@ -1,46 +1,48 @@
 # Hi, I'm Tomer Pinto 👋
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/Database-MySQL-lightgrey?logo=mysql)
-![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-ff69b4)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?logo=database)
 ![Power BI](https://img.shields.io/badge/Tools-Power%20BI-yellow?logo=powerbi)
-![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
+![Machine Learning](https://img.shields.io/badge/ML-TensorFlow%20|%20Keras-orange?logo=tensorflow)
+![Git](https://img.shields.io/badge/Version%20Control-Git-black?logo=git)
 
 ---
 
 ## 💡 About Me
 
-Finalizing **B.Sc. in Information Systems – Data Science Specialization**.  
-Passionate about **Software Development** and **Data Analysis**, with strong academic and hands-on experience through practical courses and academic project work.
+I am a **B.Sc. graduate in Information Systems** with a specialization in **Data Science**.  
+Skilled in **Python, SQL, and Power BI**, with hands-on experience in **machine learning** (TensorFlow, Keras),  
+**data visualization** (Power BI, Matplotlib), and **interactive apps** (Streamlit).  
+I enjoy turning complex data into actionable insights and building practical, user-friendly solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Python**, **SQL**, and **Power BI** – transforming data into actionable insights  
-- **Object-Oriented Design**, **RESTful APIs**, and **Modular Architectures** – building scalable and maintainable software systems  
-- Tools like **Google Colab**, **Git**, and **MySQL** – enabling efficient development and data workflows
+- **Programming & Data**: Python, SQL  
+- **Data Science & ML**: TensorFlow, Keras, Pandas, Matplotlib  
+- **BI & Visualization**: Power BI, Streamlit  
+- **Databases**: MySQL, SQL Server  
+- **Other Tools**: Git, Google Colab, Bootstrap, HTML/CSS/JavaScript basics  
 
 ---
 
 ## 📁 Selected Projects
 
-Here are a few highlighted projects — also available on my  
-🔗 [personal portfolio website](https://tomer-pinto.github.io)
+🔗 More projects available on my [personal portfolio](https://tomer-pinto.github.io)
+
+### 🔹 [Stroke Detection Dashboard](https://stroke-detection-dashboard.streamlit.app/)  
+My **final B.Sc. project** – an end-to-end deep learning solution for preliminary stroke detection using **facial images**.  
+Developed with **TensorFlow/Keras** and deployed as an interactive **Streamlit dashboard**.  
+The pipeline included **data preprocessing**, **EDA**, **CNN model training**, and an **ensemble model** that achieved **88% accuracy**.
 
 ### 🔹 [Academic Management System](https://github.com/tomer-pinto/Academic_Management_System_Advanced_Python_Final_Project)  
-A modular academic management system built with **Python** and **MySQL**, applying **OOP principles** (polymorphism, encapsulation) and a structured **three-layer architecture** (interface, business logic, database).  
-Designed for clean separation of concerns and scalability.
+A modular management system built with **Python** and **MySQL**, applying **OOP principles** and a structured **three-layer architecture**.  
+Supports roles for managers, teachers, students, parents, and general workers.
 
 ### 🔹 [Weather Data Analysis](https://colab.research.google.com/drive/1MvvogiVW--x4EPU88Jm782-PeiOEFfAd)  
-A Python-based project using **OpenWeatherMap API** and **Google Colab**, focused on collecting, cleaning, and visualizing weather data (temperature, humidity, wind speed).  
-Includes real-time API calls, basic data processing, and insightful visualizations.
-
-### 🔹 [Call Center Performance Dashboard](https://app.powerbi.com/reportEmbed?reportId=982379aa-48ac-4c8b-8adf-0f0f331fbed6&autoAuth=true&ctid=5b599ffb-70bb-4872-85e2-990c46376fa3)  
-An interactive **Power BI** dashboard analyzing **call center performance**.  
-Includes key metrics such as **total calls**, **average call duration**, **total income**, and **average customer satisfaction**, segmented by agent, issue type, day of week, and call hour.  
-Also features a **filter panel**, **satisfaction gauge**, **sales trends**, and **call volume breakdown** for actionable insights and monitoring operational efficiency.
+A Python project using the **OpenWeatherMap API** to collect, clean, and visualize data from 1,000 cities.  
+Includes real-time API calls, data processing, and visualizations for climate trends.
 
 ---
 
@@ -48,4 +50,4 @@ Also features a **filter panel**, **satisfaction gauge**, **sales trends**, and 
 
 - [LinkedIn](https://linkedin.com/in/tomerpinto)
 
-_Always open to collaboration, learning, and exciting opportunities!_
+---
