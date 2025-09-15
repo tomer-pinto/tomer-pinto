@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 I am a **B.Sc. graduate in Information Systems** with a specialization in **Data Science**.  
-Skilled in **Python, SQL, and Power BI**, with hands-on experience in **machine learning** (TensorFlow, Scikit-learn),  
+Skilled in **Python, SQL, and Power BI**, with hands-on experience in **machine learning** (TensorFlow),  
 **data visualization** (Power BI, Matplotlib), and building **interactive apps** (Streamlit).  
 I enjoy turning complex data into actionable insights and building practical, user-friendly solutions.
 
@@ -20,7 +20,6 @@ I enjoy turning complex data into actionable insights and building practical, us
 
 ### Data Science & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas)
 ![Numpy](https://img.shields.io/badge/Data-NumPy-013243?logo=numpy)
 
